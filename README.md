@@ -1,2 +1,2 @@
-# wine_Qua-ity_prediction
+# Wine_Quality_Prediction
 wine businness within our indusrties
